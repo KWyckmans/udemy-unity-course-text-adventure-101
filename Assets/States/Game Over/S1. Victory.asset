@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75ebe4c2e33da064f8ef7fc1d5a5216c, type: 3}
+  m_Name: S1. Victory
+  m_EditorClassIdentifier: 
+  storyText: 'You buckle up in the escape pod. To what planet you go, you have no
+    idea, but at least you managed to escape.
+
+
+    1. ...finally, it''s over (quit).
+
+    2.
+    Let''s go agian.'
+  nextStates:
+  - {fileID: 11400000, guid: f04bbcc66ae651d4e85f44060a5fbfe5, type: 2}
+  - {fileID: 11400000, guid: d4335193762f6a5438bbef9dca7d0198, type: 2}

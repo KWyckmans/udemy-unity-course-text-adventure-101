@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75ebe4c2e33da064f8ef7fc1d5a5216c, type: 3}
+  m_Name: A2
+  m_EditorClassIdentifier: 
+  storyText: 'You see a door to an escape pod at the end of the hall...
+
+
+    1.
+    Run. Run like hell.'
+  nextStates:
+  - {fileID: 11400000, guid: 5fddb8ade53105843b6a83368bb8ae48, type: 2}
